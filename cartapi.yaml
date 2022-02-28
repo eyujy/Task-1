@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: cart
-        image: eyujy/cart:v1
+        image: eyujy/cart:v4
         resources:
           limits:
             memory: "128Mi"
